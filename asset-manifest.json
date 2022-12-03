@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.9ecf68a4.css",
-    "main.js": "/My-Portfolio/static/js/main.b4ec53ef.js",
+    "main.css": "/My-Portfolio/static/css/main.d65dd45e.css",
+    "main.js": "/My-Portfolio/static/js/main.1583add1.js",
     "static/media/me-about.jpg": "/My-Portfolio/static/media/me-about.8008da56e2b2465c6130.jpg",
+    "static/media/portfolio7.jpg": "/My-Portfolio/static/media/portfolio7.f19a34f0a58ebf390cfd.jpg",
     "static/media/me.png": "/My-Portfolio/static/media/me.866dc8e77a4cc8a2108f.png",
     "static/media/portfolio6.jpg": "/My-Portfolio/static/media/portfolio6.a2dd0662141c3904473e.jpg",
     "static/media/SSPL.pdf": "/My-Portfolio/static/media/SSPL.2655e5c5db946aff0b57.pdf",
@@ -12,14 +13,15 @@
     "static/media/portfolio4.jpg": "/My-Portfolio/static/media/portfolio4.39bc7fcff17d94df234c.jpg",
     "static/media/Rk logo.png": "/My-Portfolio/static/media/Rk logo.321e347d2eb24e9a26c4.png",
     "static/media/bg-texture.png": "/My-Portfolio/static/media/bg-texture.994c35190f49aa8f6cad.png",
+    "static/media/Rajnish Kapile Resume.pdf": "/My-Portfolio/static/media/Rajnish Kapile Resume.353690bcffe13ec87312.pdf",
     "static/media/portfolio2.jpg": "/My-Portfolio/static/media/portfolio2.530bd908a6dd26414f9f.jpg",
     "static/media/cv.pdf": "/My-Portfolio/static/media/cv.3ea5199d66354fb8c217.pdf",
     "index.html": "/My-Portfolio/index.html",
-    "main.9ecf68a4.css.map": "/My-Portfolio/static/css/main.9ecf68a4.css.map",
-    "main.b4ec53ef.js.map": "/My-Portfolio/static/js/main.b4ec53ef.js.map"
+    "main.d65dd45e.css.map": "/My-Portfolio/static/css/main.d65dd45e.css.map",
+    "main.1583add1.js.map": "/My-Portfolio/static/js/main.1583add1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ecf68a4.css",
-    "static/js/main.b4ec53ef.js"
+    "static/css/main.d65dd45e.css",
+    "static/js/main.1583add1.js"
   ]
 }
