@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.28677ab2.css",
-    "main.js": "/My-Portfolio/static/js/main.f547598b.js",
+    "main.js": "/My-Portfolio/static/js/main.3e09ae71.js",
     "static/media/me-about.jpg": "/My-Portfolio/static/media/me-about.8008da56e2b2465c6130.jpg",
     "static/media/portfolio7.jpg": "/My-Portfolio/static/media/portfolio7.f19a34f0a58ebf390cfd.jpg",
     "static/media/CDAC Marksheet.pdf": "/My-Portfolio/static/media/CDAC Marksheet.a224c35e7cd8d09c2001.pdf",
@@ -10,6 +10,7 @@
     "static/media/SSPL.pdf": "/My-Portfolio/static/media/SSPL.2655e5c5db946aff0b57.pdf",
     "static/media/portfolio3.jpg": "/My-Portfolio/static/media/portfolio3.8836b5b8ba8dadb0116f.jpg",
     "static/media/portfolio5.jpg": "/My-Portfolio/static/media/portfolio5.bf4b0fb84ee2eace8005.jpg",
+    "static/media/portfolio8.jpg": "/My-Portfolio/static/media/portfolio8.881a07db025ecac8eaad.jpg",
     "static/media/portfolio1.jpg": "/My-Portfolio/static/media/portfolio1.11de94e5bbc3bdc63e74.jpg",
     "static/media/portfolio4.jpg": "/My-Portfolio/static/media/portfolio4.39bc7fcff17d94df234c.jpg",
     "static/media/Rk logo.png": "/My-Portfolio/static/media/Rk logo.321e347d2eb24e9a26c4.png",
@@ -19,10 +20,10 @@
     "static/media/cv.pdf": "/My-Portfolio/static/media/cv.3ea5199d66354fb8c217.pdf",
     "index.html": "/My-Portfolio/index.html",
     "main.28677ab2.css.map": "/My-Portfolio/static/css/main.28677ab2.css.map",
-    "main.f547598b.js.map": "/My-Portfolio/static/js/main.f547598b.js.map"
+    "main.3e09ae71.js.map": "/My-Portfolio/static/js/main.3e09ae71.js.map"
   },
   "entrypoints": [
     "static/css/main.28677ab2.css",
-    "static/js/main.f547598b.js"
+    "static/js/main.3e09ae71.js"
   ]
 }
