@@ -1,29 +1,30 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.28677ab2.css",
-    "main.js": "/My-Portfolio/static/js/main.3e09ae71.js",
+    "main.js": "/My-Portfolio/static/js/main.f759d2fd.js",
     "static/media/me-about.jpg": "/My-Portfolio/static/media/me-about.8008da56e2b2465c6130.jpg",
-    "static/media/portfolio7.jpg": "/My-Portfolio/static/media/portfolio7.f19a34f0a58ebf390cfd.jpg",
+    "static/media/portfolio5.jpg": "/My-Portfolio/static/media/portfolio5.f19a34f0a58ebf390cfd.jpg",
+    "static/media/portfolio1.jpg": "/My-Portfolio/static/media/portfolio1.a99acd559337588a7d96.jpg",
     "static/media/CDAC Marksheet.pdf": "/My-Portfolio/static/media/CDAC Marksheet.a224c35e7cd8d09c2001.pdf",
     "static/media/me.png": "/My-Portfolio/static/media/me.866dc8e77a4cc8a2108f.png",
-    "static/media/portfolio6.jpg": "/My-Portfolio/static/media/portfolio6.a2dd0662141c3904473e.jpg",
+    "static/media/portfolio4.jpg": "/My-Portfolio/static/media/portfolio4.a2dd0662141c3904473e.jpg",
     "static/media/SSPL.pdf": "/My-Portfolio/static/media/SSPL.2655e5c5db946aff0b57.pdf",
-    "static/media/portfolio3.jpg": "/My-Portfolio/static/media/portfolio3.8836b5b8ba8dadb0116f.jpg",
-    "static/media/portfolio5.jpg": "/My-Portfolio/static/media/portfolio5.bf4b0fb84ee2eace8005.jpg",
-    "static/media/portfolio8.jpg": "/My-Portfolio/static/media/portfolio8.881a07db025ecac8eaad.jpg",
-    "static/media/portfolio1.jpg": "/My-Portfolio/static/media/portfolio1.11de94e5bbc3bdc63e74.jpg",
-    "static/media/portfolio4.jpg": "/My-Portfolio/static/media/portfolio4.39bc7fcff17d94df234c.jpg",
+    "static/media/portfolio7.jpg": "/My-Portfolio/static/media/portfolio7.8836b5b8ba8dadb0116f.jpg",
+    "static/media/portfolio3.jpg": "/My-Portfolio/static/media/portfolio3.bf4b0fb84ee2eace8005.jpg",
+    "static/media/Rajnish Kapile Resume.pdf": "/My-Portfolio/static/media/Rajnish Kapile Resume.aeb81c28cefd2cededab.pdf",
+    "static/media/portfolio6.jpg": "/My-Portfolio/static/media/portfolio6.881a07db025ecac8eaad.jpg",
+    "static/media/portfolio2.jpg": "/My-Portfolio/static/media/portfolio2.39bc7fcff17d94df234c.jpg",
+    "static/media/portfolio8.jpg": "/My-Portfolio/static/media/portfolio8.2715697bb4a3fe68786d.jpg",
     "static/media/Rk logo.png": "/My-Portfolio/static/media/Rk logo.321e347d2eb24e9a26c4.png",
     "static/media/bg-texture.png": "/My-Portfolio/static/media/bg-texture.994c35190f49aa8f6cad.png",
-    "static/media/Rajnish Kapile Resume.pdf": "/My-Portfolio/static/media/Rajnish Kapile Resume.353690bcffe13ec87312.pdf",
-    "static/media/portfolio2.jpg": "/My-Portfolio/static/media/portfolio2.530bd908a6dd26414f9f.jpg",
+    "static/media/portfolio9.jpg": "/My-Portfolio/static/media/portfolio9.231cb7ae00a6ed03f13e.jpg",
     "static/media/cv.pdf": "/My-Portfolio/static/media/cv.3ea5199d66354fb8c217.pdf",
     "index.html": "/My-Portfolio/index.html",
     "main.28677ab2.css.map": "/My-Portfolio/static/css/main.28677ab2.css.map",
-    "main.3e09ae71.js.map": "/My-Portfolio/static/js/main.3e09ae71.js.map"
+    "main.f759d2fd.js.map": "/My-Portfolio/static/js/main.f759d2fd.js.map"
   },
   "entrypoints": [
     "static/css/main.28677ab2.css",
-    "static/js/main.3e09ae71.js"
+    "static/js/main.f759d2fd.js"
   ]
 }
