@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.28677ab2.css",
-    "main.js": "/My-Portfolio/static/js/main.8eca919f.js",
-    "static/media/me-about.jpg": "/My-Portfolio/static/media/me-about.8008da56e2b2465c6130.jpg",
-    "static/media/portfolio5.jpg": "/My-Portfolio/static/media/portfolio5.f19a34f0a58ebf390cfd.jpg",
-    "static/media/portfolio1.jpg": "/My-Portfolio/static/media/portfolio1.a99acd559337588a7d96.jpg",
+    "main.js": "/My-Portfolio/static/js/main.e4eb6721.js",
+    "static/media/me-about.jpg": "/My-Portfolio/static/media/me-about.289d68330bfd4bf9f496.jpg",
     "static/media/CDAC Marksheet.pdf": "/My-Portfolio/static/media/CDAC Marksheet.a224c35e7cd8d09c2001.pdf",
-    "static/media/me.png": "/My-Portfolio/static/media/me.866dc8e77a4cc8a2108f.png",
-    "static/media/portfolio4.jpg": "/My-Portfolio/static/media/portfolio4.a2dd0662141c3904473e.jpg",
+    "static/media/me.png": "/My-Portfolio/static/media/me.b9b3b690544a13c536b0.png",
     "static/media/SSPL.pdf": "/My-Portfolio/static/media/SSPL.2655e5c5db946aff0b57.pdf",
     "static/media/portfolio7.jpg": "/My-Portfolio/static/media/portfolio7.8836b5b8ba8dadb0116f.jpg",
     "static/media/portfolio3.jpg": "/My-Portfolio/static/media/portfolio3.bf4b0fb84ee2eace8005.jpg",
+    "static/media/portfolio5.jpg": "/My-Portfolio/static/media/portfolio5.7f995ca93651d87e4b6a.jpg",
     "static/media/CV Rajnish Kapile.pdf": "/My-Portfolio/static/media/CV Rajnish Kapile.7cd000cc078914d5c67a.pdf",
     "static/media/portfolio6.jpg": "/My-Portfolio/static/media/portfolio6.881a07db025ecac8eaad.jpg",
+    "static/media/portfolio1.jpg": "/My-Portfolio/static/media/portfolio1.4a177f1e9bc5219aeb60.jpg",
     "static/media/portfolio2.jpg": "/My-Portfolio/static/media/portfolio2.39bc7fcff17d94df234c.jpg",
+    "static/media/portfolio4.jpg": "/My-Portfolio/static/media/portfolio4.745ea0d437fa5456b8e4.jpg",
     "static/media/portfolio8.jpg": "/My-Portfolio/static/media/portfolio8.2715697bb4a3fe68786d.jpg",
     "static/media/Rk logo.png": "/My-Portfolio/static/media/Rk logo.321e347d2eb24e9a26c4.png",
     "static/media/bg-texture.png": "/My-Portfolio/static/media/bg-texture.994c35190f49aa8f6cad.png",
     "static/media/portfolio9.jpg": "/My-Portfolio/static/media/portfolio9.231cb7ae00a6ed03f13e.jpg",
     "index.html": "/My-Portfolio/index.html",
     "main.28677ab2.css.map": "/My-Portfolio/static/css/main.28677ab2.css.map",
-    "main.8eca919f.js.map": "/My-Portfolio/static/js/main.8eca919f.js.map"
+    "main.e4eb6721.js.map": "/My-Portfolio/static/js/main.e4eb6721.js.map"
   },
   "entrypoints": [
     "static/css/main.28677ab2.css",
-    "static/js/main.8eca919f.js"
+    "static/js/main.e4eb6721.js"
   ]
 }
